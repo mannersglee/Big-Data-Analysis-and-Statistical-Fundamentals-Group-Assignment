@@ -22,3 +22,13 @@
 
 - [收入差距与公平感](04_收入差距与公平感/README.md)：CGSS 2021，个人收入位置与社会公平感。
 
+
+## 图表复现
+
+四篇报告的图表统一由 [绘图脚本](src/make_figures.py)生成，使用学术简洁配色，并同时导出 PNG 和可编辑的 SVG。先运行各选题 `analyze.py`，再运行前三篇所需的 `src/advanced_analysis.py`，最后运行：
+
+```bash
+/opt/anaconda3/envs/myenv/bin/python src/make_figures.py
+```
+
+图中的区间和预测指标都有相应口径说明；未加权的区间不包含复杂抽样设计不确定性。
