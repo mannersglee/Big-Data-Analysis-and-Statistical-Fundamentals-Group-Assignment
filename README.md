@@ -32,3 +32,9 @@
 ```
 
 图中的区间和预测指标都有相应口径说明；未加权的区间不包含复杂抽样设计不确定性。
+
+四篇报告的 `N / Mean / SD / Min / P25 / P50 / P75 / Max` 分布表由 [描述统计脚本](src/descriptive_tables.py)生成。运行各选题 `analyze.py` 后执行：
+
+```bash
+/opt/anaconda3/envs/myenv/bin/python src/descriptive_tables.py
+```
