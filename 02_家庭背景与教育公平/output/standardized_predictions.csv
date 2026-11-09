@@ -1,0 +1,8 @@
+﻿variable,scenario,mean_predicted_math_pct
+family_economy,非常困难,62.21394505713101
+family_economy,比较困难,60.724231779710585
+family_economy,中等,64.06426869341253
+family_economy,比较富裕,64.02790327654759
+family_economy,很富裕,55.16317576926854
+computer_internet,0,58.31592423936804
+computer_internet,1,65.66141098757416

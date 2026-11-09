@@ -1,0 +1,7 @@
+﻿variable,scenario,mean_predicted_probability
+years_local,2,0.6848105139008533
+years_local,5,0.7123148789822078
+years_local,10,0.7549575607725867
+years_local,15,0.7932742232128986
+local_ties,0,0.6630056144406705
+local_ties,1,0.8193783008375224

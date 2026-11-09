@@ -1,0 +1,7 @@
+data/
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+*/output/analysis_sample.csv
+*/output/holdout_predictions.csv

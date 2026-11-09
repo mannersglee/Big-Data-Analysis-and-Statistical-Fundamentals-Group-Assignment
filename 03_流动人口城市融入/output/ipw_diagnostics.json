@@ -1,0 +1,14 @@
+{
+  "n": 13994,
+  "treated_n": 4414,
+  "control_n": 9580,
+  "propensity_p01": 0.19730623082778462,
+  "propensity_p99": 0.5775332204141229,
+  "clipped_n": 0,
+  "effective_n_treated": 4120.094575203319,
+  "effective_n_control": 9361.793063564535,
+  "weighted_difference": 0.15769221986255494,
+  "ci_low_hc3": 0.1424924084593608,
+  "ci_high_hc3": 0.1728920312657491,
+  "p_hc3": 6.450127653238124e-92
+}
