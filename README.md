@@ -38,3 +38,10 @@
 ```bash
 /opt/anaconda3/envs/myenv/bin/python src/descriptive_tables.py
 ```
+
+## CGSS 2023 新数据探索
+
+- [描述性分析 Notebook](05_CGSS2023探索/CGSS2023_描述性分析.ipynb)：读取新加入的 `data/CGSS2023/CGSS2023.tab`，核对调查方式、权重、缺失编码和字段覆盖率，生成描述表与图。
+- [创新选题建议](05_CGSS2023探索/选题建议.md)：六个可行方向及对应的样本规模、变量、方法和识别边界。
+
+新数据和问卷留在 `data/CGSS2023/`，不随公共 Git 仓库上传。运行 Notebook 前需将数据放在该路径。
